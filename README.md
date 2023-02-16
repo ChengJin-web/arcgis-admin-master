@@ -148,16 +148,3 @@ GIS功能包含：量算、绘制、分屏、卷帘、定位、切换底图、�
 3. 访问地址：http://localhost:6666
 
 * 通过IP地址访问，获取当前定位时会提示“定位失败，用户拒绝请求地理定位”，通过http://localhost:6666/ 访问可正常使用定位功能。定位功能，ArcGis官方示例，获取当前定位总是定位到兰州附近
-
-## 作者联系方式
-
-QQ：381612175
-TEL: 18376686974
-
-github：https://github.com/xLong1029/
-
-站酷主页：http://xlong.zcool.com.cn/
-
-UI 中国：http://i.ui.cn/ucenter/358591.html
-
-- 此项目做学习 Vue3 + Vite 测试使用，ArcGis 我只是外行
