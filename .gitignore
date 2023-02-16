@@ -3,6 +3,7 @@ node_modules
 xlongMapAdmin
 dist
 *.local
+.idea
 
 # lock
 yarn.lock
