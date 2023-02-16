@@ -1,0 +1,12 @@
+node_modules
+.DS_Store
+xlongMapAdmin
+dist
+*.local
+
+# lock
+yarn.lock
+package-lock.json
+pnpm-lock.yaml
+
+*.log
